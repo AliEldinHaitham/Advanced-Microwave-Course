@@ -1,0 +1,5 @@
+Develop the required simulations and test-benches to compare between different types of transmission lines as far as insertion loss, dispersion, and coupling.
+
+    Assuming 3-layer substrate material (100 um thickness, Dk=3.3 and Df=0.003) with 20-um copper, provide an estimate for the loss (dB/cm) for a trace of each type on the PCB. Explain the loss mechanisms in each line.
+    Simulate the coupling as a function of separation between two lines. Apply appropriate shielding between the lines and compare. 
+    Bonus: Design a transition from a microstrip or CPW to SIW

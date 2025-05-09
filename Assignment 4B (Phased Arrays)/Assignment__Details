@@ -1,0 +1,2 @@
+    Generate the necessary curves to assess the impact of magnitude and phase imbalance of a quadrature coupler connected to a dual-feel circularly polarized antenna and its axial ratio. Note: You do not have to run EM simulations
+    Compare between the radiation patterns under scan for a large array supporting a wideband signal and connected to phase shifters vs time-delay units. Plot the dependence of beamsquint angle on the array parameters (size, bandwidth and scan angle).

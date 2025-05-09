@@ -1,0 +1,3 @@
+    Using an EM simulator, develop a circuit model for a microstrip to stripline via transition. You can use the same 3-layer stackup used in Assignment #1.
+    Select one of the balun topologies and implement it on the die or the PCB stack. Compare the EM sims, vs the ideal schematic, vs a lumped schematic (on the same plots).
+    Assess the degradation of the phase and magnitude balance on the XPD of a differentially fed antenna. Benchmark against a single-ended fed antenna.
